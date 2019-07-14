@@ -20,4 +20,5 @@ rsync
 phpmyadmin
 smtp
 pop3
+docker
 
