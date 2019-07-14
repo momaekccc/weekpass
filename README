@@ -1,0 +1,23 @@
+常规应用弱口令扫描
+mysql  
+vnc   
+redis 
+mongodb
+ldapd
+tomcat
+ssh
+http 401
+mssql
+memcached
+smb
+snmp
+ftp
+postgresql
+zookeeper
+rdp
+telnet
+rsync
+phpmyadmin
+smtp
+pop3
+
